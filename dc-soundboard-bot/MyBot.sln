@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{53C86135-E367-4E3F-89B5-3D677951A769}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DC21B4A-5D50-49CD-90B7-FA7C84909189}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBot", "src\MyBot\MyBot.csproj", "{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8510A3E7-E6A6-4016-A1AD-7DFF92910B3D} = {53C86135-E367-4E3F-89B5-3D677951A769}
+	EndGlobalSection
+EndGlobal
